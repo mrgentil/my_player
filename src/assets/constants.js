@@ -18,8 +18,8 @@ export const genres = [
 ];
 
 export const links = [
-  { name: 'Discover', to: '/', icon: HiOutlineHome },
-  { name: 'Around You', to: '/around-you', icon: HiOutlinePhotograph },
-  { name: 'Top Artists', to: '/top-artists', icon: HiOutlineUserGroup },
-  { name: 'Top Charts', to: '/top-charts', icon: HiOutlineHashtag },
+  { name: 'Découverte', to: '/', icon: HiOutlineHome },
+  { name: 'Autour de vous', to: '/around-you', icon: HiOutlinePhotograph },
+  { name: 'Top Artistes', to: '/top-artists', icon: HiOutlineUserGroup },
+  { name: 'Palmarès', to: '/top-charts', icon: HiOutlineHashtag },
 ];
